@@ -16,3 +16,13 @@ h3 {
 ol {
     color: #191970;
 }
+
+.center1 {
+  text-align: center;
+}
+
+header {
+  color: #191970;
+  font-family: sans-serif;
+  font-size: 15px
+}

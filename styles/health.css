@@ -16,3 +16,13 @@ table, th, td  {
     }
 
      <table style="width:100%">
+
+     .center1 {
+       text-align: center;
+     }
+
+     header {
+       color: #191970;
+       font-family: sans-serif;
+       font-size: 15px
+     }

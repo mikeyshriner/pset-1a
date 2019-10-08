@@ -9,3 +9,13 @@ body {
 h1 {
     color: #4B0082
 }
+
+.center1 {
+  text-align: center;
+}
+
+header {
+  color: #191970;
+  font-family: sans-serif;
+  font-size: 15px
+}
